@@ -3,7 +3,7 @@ The above source code was created to fully understand the Get Data From Web API.
 
 # Usage
 
-### Step 2 
+### Step 1 
 - Add the dependency
 ```java
   	dependencies {
